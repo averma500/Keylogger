@@ -18,7 +18,7 @@ def sendmail():
 	s.starttls()
 
 	# Authentication
-	s.login("an.kittu.verma17@gmail.com", "Aman@1998")
+	s.login("abc@gmail.com", "password")
 	f=open('output.txt','r')
 
 	# message to be sent
@@ -26,7 +26,7 @@ def sendmail():
 	print(message)
 
 	# sending the mail
-	s.sendmail("kverma03121998@gmail.com", "an.kittu.verma17@gmail.com", message)
+	s.sendmail("mail@gmail.com", "abc@gmail.com", message)
 
 	# terminating the session
 	s.quit()
