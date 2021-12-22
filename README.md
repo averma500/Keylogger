@@ -1,8 +1,8 @@
-# How to get information a Computer System
+# How to Hack a Computer System
 For Linux/Windows/Mac
 
 # Keylogger
-How to Hack a Computer System
+How to get information a Computer System
 
 ### Requirements
 * 1st Install Python
