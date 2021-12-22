@@ -1,4 +1,4 @@
-# How to Hack a Computer System
+# How to get Information a Computer System
 For Linux/Windows/Mac
 
 # Keylogger
